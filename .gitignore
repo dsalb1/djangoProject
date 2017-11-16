@@ -8,6 +8,9 @@ __pycache__/
 # C extensions
 *.so
 
+# .idea
+.idea/workspace.xml
+
 # Distribution / packaging
 .Python
 env/
